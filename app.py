@@ -8,6 +8,8 @@ import logging
 import threading
 from chatbot_groq import RAGChatbot
 
+"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"
+
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
